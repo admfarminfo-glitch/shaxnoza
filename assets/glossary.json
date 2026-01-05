@@ -1,0 +1,86 @@
+[
+  {
+    "id": "chem-5-1",
+    "subject": "Kimyo",
+    "grade": 5,
+    "term": "Atom",
+    "definition": "Moddaning eng kichik zarrachasi, kimyoviy xossalarni saqlaydi."
+  },
+  {
+    "id": "chem-7-1",
+    "subject": "Kimyo",
+    "grade": 7,
+    "term": "Molekula",
+    "definition": "Moddaning tarkibini ifodalovchi zarracha."
+  },
+  {
+    "id": "phys-6-1",
+    "subject": "Fizika",
+    "grade": 6,
+    "term": "Tezlik",
+    "definition": "Jismning ma'lum vaqt ichida bosib o'tgan yo'li."
+  },
+  {
+    "id": "phys-9-1",
+    "subject": "Fizika",
+    "grade": 9,
+    "term": "Bosim",
+    "definition": "Sirtga perpendikulyar ta'sir etuvchi kuchning birlik yuzaga nisbati."
+  },
+  {
+    "id": "bio-5-1",
+    "subject": "Biologiya",
+    "grade": 5,
+    "term": "Hujayra",
+    "definition": "Tirik organizmlarning tuzilish va faoliyat birligi."
+  },
+  {
+    "id": "bio-8-1",
+    "subject": "Biologiya",
+    "grade": 8,
+    "term": "Fotosintez",
+    "definition": "O'simliklarning yorug'likda organik modda hosil qilish jarayoni."
+  },
+  {
+    "id": "uzb-5-1",
+    "subject": "Ona tili",
+    "grade": 5,
+    "term": "Ot",
+    "definition": "Narsaning nomini bildiruvchi so'z turkumi."
+  },
+  {
+    "id": "uzb-7-1",
+    "subject": "Ona tili",
+    "grade": 7,
+    "term": "Fe'l",
+    "definition": "Harakat yoki holatni bildiruvchi so'z turkumi."
+  },
+  {
+    "id": "lit-6-1",
+    "subject": "Adabiyot",
+    "grade": 6,
+    "term": "Syujet",
+    "definition": "Asarda voqealar rivojining izchil ketma-ketligi."
+  },
+  {
+    "id": "lit-10-1",
+    "subject": "Adabiyot",
+    "grade": 10,
+    "term": "Lirika",
+    "definition": "Shoirning ichki kechinmalari ifodalanadigan janr."
+  },
+  {
+    "id": "inf-5-1",
+    "subject": "Informatika",
+    "grade": 5,
+    "term": "Algoritm",
+    "definition": "Muammoni yechish bo'yicha aniq ko'rsatmalar ketma-ketligi."
+  },
+  {
+    "id": "inf-11-1",
+    "subject": "Informatika",
+    "grade": 11,
+    "term": "Ma'lumotlar bazasi",
+    "definition": "Tartiblangan va boshqariladigan ma'lumotlar to'plami."
+  }
+]
